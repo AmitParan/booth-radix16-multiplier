@@ -25,4 +25,7 @@ This repository contains:
 - Suitable for FPGA or academic digital design projects
 
 ## File Structure
-
+CU.vhd -- Control Unit
+OU_R16.vhd -- Operational Unit (Radix-16)
+project_b.vhd -- Top-level multiplier
+project_b_tb.vhd -- Testbench (ModelSim)
